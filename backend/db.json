@@ -1,0 +1,38 @@
+{
+  "Login": [],
+  "register": [
+    {
+      "id": "25ef",
+      "name": "ardra",
+      "address": "kanjirathingal",
+      "email": "paru@gmail.com",
+      "password": "ardra"
+    }
+  ],
+  "Booking": [
+    {
+      "id": "f966",
+      "name": "ardra antony",
+      "companyname": "The Ritz-Carlton, Melbourne",
+      "checkin": "2024-07-03",
+      "checkout": "2024-07-08",
+      "phonenumber": "1234567891"
+    },
+    {
+      "id": "0c96",
+      "name": "ardra",
+      "companyname": "rich",
+      "checkin": "2024-07-10",
+      "checkout": "2024-07-09",
+      "phonenumber": "1234567891"
+    }
+  ],
+  "contact": [
+    {
+      "id": "bc10",
+      "name": "ardra",
+      "message": "hello"
+    }
+  ],
+  "log": []
+}
